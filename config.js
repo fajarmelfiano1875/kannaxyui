@@ -46,10 +46,10 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://www.instagram.com/fajarmelfiano/'
-global.sgh = 'https://bl4ck-lion.github.io/index.php'
+global.sgh = 'https://github.com/fajarmelfiano1875'
 global.sgc = 'https://chat.whatsapp.com/HHjPtKIjkzb1ud0QtrkbQH'
-global.sdc = 'https://discord.gg/WEJQjugTY7'
-global.snh = 'https://youtube.com/c/LeonGanz/'
+global.sdc = 'https://discord.gg/866F6KxG'
+global.snh = 'https://www.youtube.com/channel/UCGH2VzotNoXb0iErq52fupQ'
 
 /*============== PAYMENT ==============*/
 global.pdana = '085748839210'
