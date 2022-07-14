@@ -63,7 +63,7 @@ global.psaweria = 'https://saweria.co/fajarmelfiano'
 global.nomorbot = '6281939268418'
 global.nomorown = '6285748839210'
 global.namebot = 'MT-BotZ'
-global.nameown = 'FajarYT1875'
+global.nameown = 'FajarMelfiano'
 
 
 /*============== STAFF ==============*/
